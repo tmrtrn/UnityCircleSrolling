@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CircularScrollingList/ListPositionCtrl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CircularScrollingList/ListBank.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CircularScrollingList/ListPositionCtrl.cs" Line="93" Column="3" />
+      <File FileName="Assets/Scripts/CircularScrollingList/ListBox.cs" Line="131" Column="5" />
+      <File FileName="Assets/Scripts/CircularScrollingList/ListBoxItem.cs" Line="86" Column="34" />
+      <File FileName="Assets/Scripts/GameObjectExtensions.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
